@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto live chat replay
 // @namespace    https://github.com/KoPlayz/userscripts/
-// @version      1.0
+// @version      1.1
 // @description  Clicks on the YouTube live chat replay button automatically
 // @author       https://github.com/KoPlayz
 // @match        https://www.youtube.com/*
