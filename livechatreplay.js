@@ -6,6 +6,9 @@
 // @author       https://github.com/KoPlayz
 // @match        https://www.youtube.com/
 // @grant        none
+// @license MIT
+// @downloadURL https://update.greasyfork.org/scripts/491046/Auto%20live%20chat%20replay.user.js
+// @updateURL https://update.greasyfork.org/scripts/491046/Auto%20live%20chat%20replay.meta.js
 // ==/UserScript==
 
 (function() {
